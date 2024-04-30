@@ -15,12 +15,16 @@ derechos fundamentales, se pretende con este proyecto:
 
 <ol>
     <li>
-    Redactar un borrador de una <i>Carta de Derechos Fundamentales</i>, que 
-    reconozca una serie de derechos fundamentales a cualquier ciudadano español
-    fuera del alcance de la política.
+    Redactar un borrador de una 
+    <i><a href="/legal/Rights.md#carta-de-derechos-fundamentales">
+    Carta de Derechos Fundamentales</a></i>, que reconozca una serie de derechos 
+    fundamentales a cualquier ciudadano español fuera del alcance de 
+    la acción política.
     </li>
     <li>
-    Redactar un borrador de una <i>Constitución para la Nación Española</i>, 
+    Redactar un borrador de una 
+    <i><a href="/legal/Constitution.md#constitución-para-la-nación-española">
+    Constitución para la Nación Española</a></i>, 
     que establezca la separación de origen de los diferentes poderes del estado,
     i.e., el poder legislativo, el poder ejecutivo y el poder judicial; así como
     la representación política, mediante elecciones por distritos uninominales.
