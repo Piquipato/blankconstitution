@@ -5,6 +5,7 @@ Desde esta página, podrás navegar a las diferentes secciones del tutorial para
 colaborar con el proyecto <b>Blank Constitution</b>
 </p>
 
+## Tabla de Contenidos
 <ul>
     <li><a href="/docs/installation.md#guía-de-instalación">
     Guía de Instalación
