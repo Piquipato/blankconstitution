@@ -81,7 +81,7 @@ de como usar <i>GitHub</i> y <i>Git</i> para poder colaborar en este proyecto.
 </p>
 
 
-### Notas sobre el administrador
+## Notas sobre el administrador
 
 <p>
 Soy un estudiante de universidad, que actúa de manera independiente a la hora
