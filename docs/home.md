@@ -6,13 +6,13 @@ colaborar con el proyecto <b>Blank Constitution</b>
 </p>
 
 <ul>
-    <li><a href="">
+    <li><a href="/docs/installation.md#guía-de-instalación">
     Guía de Instalación
     </a></li>
-    <li><a href="">
+    <li><a href="/docs/usage.md#instrucciones-de-uso">
     Instrucciones de Uso
     </a></li>
-    <li><a href="">
+    <li><a href="/docs/syntax.md#referencia-sintáctica">
     Referencia Sintáctica
     </a></li>
 </ul>
