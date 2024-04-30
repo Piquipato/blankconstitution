@@ -33,7 +33,6 @@ repositorio se aloja como la ley fundamental de nuestro país, animo a cualquier
 colaborador a participar en la redacción del mismo.
 </p>
 
----
 
 ## ¿Porque Github?
 
@@ -65,7 +64,6 @@ proyecto por el que considero que debo poner un esfuerzo en aras de alcanzar
 un mejor sistema político en mi país, abro este repositorio.
 </p>
 
----
 
 ## Tutorial de Uso para Colaboradores
 
@@ -82,9 +80,6 @@ previa o del contexto del que venga, incluyo en esta introducción un
 de como usar <i>GitHub</i> y <i>Git</i> para poder colaborar en este proyecto.
 </p>
 
-
-
----
 
 ### Notas sobre el administrador
 
